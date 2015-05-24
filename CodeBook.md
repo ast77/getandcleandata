@@ -1,0 +1,263 @@
+# DATA DICTIONARY
+
+## subject
+Code number of the volunteer.
+1 .. 30
+
+## activity
+Person's activity while wearing a smartphone Samsung Galaxy S II on the waist.
+* WALKING
+
+* WALKING_UPSTAIRS
+
+* WALKING_DOWNSTAIRS
+
+* SITTING
+
+* STANDING
+
+* LAYING
+
+## tBodyAcc-mean()-X
+Average X-componenet of time domain accelerometer signal.
+-1 .. 1
+
+## tBodyAcc-mean()-Y
+Average Y-componenet of time domain accelerometer signal.
+-1 .. 1
+
+## tBodyAcc-mean()-Z
+Average Z-componenet of time domain accelerometer signal.
+-1 .. 1
+
+## tBodyAcc-std()-X 
+Standard deviation of X-component of time domain accelerometer signal.
+-1 .. 1
+
+## tBodyAcc-std()-Y
+Standard deviation of Y-component of time domain accelerometer signal.
+-1 .. 1
+
+## tBodyAcc-std()-Z
+Standard deviation of Z-component of time domain accelerometer signal.
+-1 .. 1
+
+## tGravityAcc-mean()-X
+
+-1 .. 1
+
+## tGravityAcc-mean()-Y
+-1 .. 1
+
+## tGravityAcc-mean()-Z
+-1 .. 1
+
+## tGravityAcc-std()-X
+-1 .. 1
+
+## tGravityAcc-std()-Y
+-1 .. 1
+
+## tGravityAcc-std()-Z
+-1 .. 1
+
+## tBodyAccJerk-mean()-X
+-1 .. 1
+
+## tBodyAccJerk-mean()-Y
+-1 .. 1
+
+## tBodyAccJerk-mean()-Z
+-1 .. 1
+
+## tBodyAccJerk-std()-X 
+-1 .. 1
+
+## tBodyAccJerk-std()-Y
+-1 .. 1
+
+## tBodyAccJerk-std()-Z
+-1 .. 1
+
+## tBodyGyro-mean()-X
+-1 .. 1
+
+## tBodyGyro-mean()-Y
+-1 .. 1
+
+## tBodyGyro-mean()-Z
+-1 .. 1
+
+## tBodyGyro-std()-X
+-1 .. 1
+
+## tBodyGyro-std()-Y
+-1 .. 1
+
+## tBodyGyro-std()-Z
+-1 .. 1
+
+## tBodyGyroJerk-mean()-X 
+-1 .. 1
+
+## tBodyGyroJerk-mean()-Y 
+-1 .. 1
+
+## tBodyGyroJerk-mean()-Z
+-1 .. 1
+
+## tBodyGyroJerk-std()-X
+-1 .. 1
+
+## tBodyGyroJerk-std()-Y
+-1 .. 1
+
+## tBodyGyroJerk-std()-Z
+-1 .. 1
+
+## tBodyAccMag-mean()
+-1 .. 1
+
+## tBodyAccMag-std() 
+-1 .. 1
+
+## tGravityAccMag-mean()
+-1 .. 1
+
+## tGravityAccMag-std()
+-1 .. 1
+
+## tBodyAccJerkMag-mean()
+-1 .. 1
+
+## tBodyAccJerkMag-std() 
+-1 .. 1
+
+## tBodyGyroMag-mean()
+-1 .. 1
+
+## tBodyGyroMag-std() 
+-1 .. 1
+
+## tBodyGyroJerkMag-mean()
+-1 .. 1
+
+## tBodyGyroJerkMag-std()
+-1 .. 1
+
+## fBodyAcc-mean()-X
+-1 .. 1
+
+## fBodyAcc-mean()-Y
+-1 .. 1
+
+## fBodyAcc-mean()-Z
+-1 .. 1
+
+## fBodyAcc-std()-X
+-1 .. 1
+
+## fBodyAcc-std()-Y
+-1 .. 1
+
+## fBodyAcc-std()-Z
+-1 .. 1
+
+## fBodyAcc-meanFreq()-X
+-1 .. 1
+
+## fBodyAcc-meanFreq()-Y
+-1 .. 1
+
+## fBodyAcc-meanFreq()-Z
+-1 .. 1
+
+## fBodyAccJerk-mean()-X
+-1 .. 1
+
+## fBodyAccJerk-mean()-Y
+-1 .. 1
+
+## fBodyAccJerk-mean()-Z
+-1 .. 1
+
+## fBodyAccJerk-std()-X
+-1 .. 1
+
+## fBodyAccJerk-std()-Y
+-1 .. 1
+
+## fBodyAccJerk-std()-Z
+-1 .. 1
+
+## fBodyAccJerk-meanFreq()-X
+-1 .. 1
+
+## fBodyAccJerk-meanFreq()-Y
+-1 .. 1
+
+## fBodyAccJerk-meanFreq()-Z
+-1 .. 1
+
+## fBodyGyro-mean()-X
+-1 .. 1
+
+## fBodyGyro-mean()-Y
+-1 .. 1
+
+## fBodyGyro-mean()-Z
+-1 .. 1
+
+## fBodyGyro-std()-X
+-1 .. 1
+
+## fBodyGyro-std()-Y
+-1 .. 1
+
+## fBodyGyro-std()-Z
+-1 .. 1
+
+## fBodyGyro-meanFreq()-X
+-1 .. 1
+
+## fBodyGyro-meanFreq()-Y
+-1 .. 1
+
+## fBodyGyro-meanFreq()-Z
+-1 .. 1
+
+## fBodyAccMag-mean()
+-1 .. 1
+
+## fBodyAccMag-std()
+-1 .. 1
+
+## fBodyAccMag-meanFreq()
+-1 .. 1
+
+## fBodyBodyAccJerkMag-mean()
+-1 .. 1
+
+## fBodyBodyAccJerkMag-std()
+-1 .. 1
+
+## fBodyBodyAccJerkMag-meanFreq()
+-1 .. 1
+
+## fBodyBodyGyroMag-mean()
+-1 .. 1
+
+## fBodyBodyGyroMag-std()
+-1 .. 1
+
+## fBodyBodyGyroMag-meanFreq()
+-1 .. 1
+
+## fBodyBodyGyroJerkMag-mean()
+-1 .. 1
+
+## fBodyBodyGyroJerkMag-std()
+-1 .. 1
+
+## fBodyBodyGyroJerkMag-meanFreq()
+-1 .. 1 
